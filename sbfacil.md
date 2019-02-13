@@ -1,4 +1,4 @@
-# Termos de uso sbFácil
+# Política de privacidade sbFácil
 
 ## SEÇÃO 1 - O QUE FAREMOS COM ESTA INFORMAÇÃO?
 Quando você realiza alguma transação com nosso aplicativo, como parte do processo de pedido de venda, coletamos as informações pessoais que você nos dá tais como: nome, e-mail e endereço.
